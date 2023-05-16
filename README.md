@@ -1,16 +1,15 @@
-# Notes taking app
-
+## Notes taking app
 
 This is a simple Note-Taking App built using JavaScript that allows users to create, edit, and delete notes.
 
-**Features**
+## Features
 
 - Users can create a new note by clicking on the 'Add Note' button.
 - Each note has a title and a body text.
 - Users can edit or delete previously saved notes.
 - Users can search for specific notes using keywords.
 
-**Technologies**
+## Technologies
 
 This application was built using the following technologies:
 
@@ -19,7 +18,7 @@ This application was built using the following technologies:
 - JavaScript
 - Local Storage API
 
-**Installation**
+## Installation
 
 To run this application locally, please follow these steps:
 
@@ -27,6 +26,7 @@ To run this application locally, please follow these steps:
 2. Open the `index.html` file in your browser.
 
 
-**License**
+## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify this code as per your requirements.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Feel free to use and modify this code as per your requirements.
